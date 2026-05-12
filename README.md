@@ -1,4 +1,4 @@
-# # 📈 Indian Stock Recommendation System
+ # 📈 Indian Stock Recommendation System
 
 An AI-powered machine learning system that analyzes historical Indian stock market data and generates **BUY / HOLD / SELL** recommendations for Nifty 50 stocks using technical indicators and an XGBoost classification model.
 
